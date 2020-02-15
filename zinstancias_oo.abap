@@ -1,1 +1,1 @@
-reporrt zinstancias_oo .
+report zinstancias_oo .
