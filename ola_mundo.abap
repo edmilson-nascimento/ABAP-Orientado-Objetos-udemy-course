@@ -1,3 +1,4 @@
+report zmm_mail .
 
 class lcl_ola_mundo definition .
 
@@ -8,13 +9,14 @@ endclass .
 
 start-of-selection .
 
-  data:
-    lo_ola_mundo type ref to lcl_ola_mundo .
+*  data:
+*    lo_ola_mundo type ref to lcl_ola_mundo .
+*
+*  create object lo_ola_mundo .
+*
+*  lo_ola_mundo->dizer_ola_mundo( ) .
 
-  create object lo_ola_mundo .
-
-  lo_ola_mundo->dizer_ola_mundo( ) .
-
+  new lcl_ola_mundo( )->dizer_ola_mundo( ) .
 
 class lcl_ola_mundo implementation .
 
