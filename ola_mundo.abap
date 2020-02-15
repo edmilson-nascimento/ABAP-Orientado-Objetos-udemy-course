@@ -1,4 +1,4 @@
-report zmm_mail .
+report z_ola_mundo .
 
 class lcl_ola_mundo definition .
 
