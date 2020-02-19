@@ -2,7 +2,7 @@
 
 [![N|Solid](https://wiki.scn.sap.com/wiki/download/attachments/1710/ABAP%20Development.png?version=1&modificationDate=1446673897000&api=v2)](https://www.sap.com/brazil/developer.html)
 
-~~Quando Deus der coragem~~ Futuramente eu vou melhorar o codigo e mudar com uma boa documentação.
+~~Quando Deus der coragem~~ Futuramente eu vou melhorar o código e aplicar uma boa documentação.
 
 > Estou pensandoa aqui e ja falei em varios respositorios que ia melhorar a documentação e ate hoje nada..
 
