@@ -4,7 +4,7 @@
 
 ~~Quando Deus der coragem, mas muita coragem~~ Futuramente eu vou melhorar o código e aplicar uma boa documentação.
 
-> Estou pensandoa aqui e ja falei em varios respositorios que ia melhorar a documentação e ate hoje nada..
+> Estou pensando aqui e ja falei em varios respositorios que ia melhorar a documentação e ate hoje nada...
 
 ### Ordem dos programas ###
 - [Ola Mundo](https://github.com/edmilson-nascimento/ABAP-Orientado-Objetos-udemy-course/blob/master/ola_mundo.abap)
