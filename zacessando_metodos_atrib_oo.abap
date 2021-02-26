@@ -1,6 +1,5 @@
 report zacessando_metodos_atrib_oo .
 
-
 class lcl_dominio definition.
 
   public section.
