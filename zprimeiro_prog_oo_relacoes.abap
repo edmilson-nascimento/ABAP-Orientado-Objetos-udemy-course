@@ -87,7 +87,6 @@ class lcl_campo definition .
 endclass .
 
 
-
 class lcl_pessoa implementation .
 
   method falar.
