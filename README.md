@@ -1,6 +1,9 @@
 # Conteudo do Curso de ABAP Orientado a Objetos #
 
-[![N|Solid](https://wiki.scn.sap.com/wiki/download/attachments/1710/ABAP%20Development.png?version=1&modificationDate=1446673897000&api=v2)](https://www.sap.com/brazil/developer.html)
+
+![Static Badge](https://img.shields.io/badge/development-abap-blue) 
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/edmilson-nascimento/open.x.select)
+![Static Badge](https://img.shields.io/badge/poo-abap-teal)
 
 ~~Quando Deus der coragem, mas muita coragem~~ Futuramente eu vou melhorar o código e aplicar uma boa documentação.
 
@@ -14,3 +17,6 @@
 - [Atributos](https://github.com/edmilson-nascimento/ABAP-Orientado-Objetos-udemy-course/blob/master/zatributos_oo.abap)
 - [Construtores](https://github.com/edmilson-nascimento/ABAP-Orientado-Objetos-udemy-course/blob/master/zconstrutores_oo.abap)
 - [Acessando Metodos e Atributos](https://github.com/edmilson-nascimento/ABAP-Orientado-Objetos-udemy-course/blob/master/zacessando_metodos_atrib_oo.abap)
+
+
+~~isso aqui acabou sendo mais um daqueles cursos que eu comprei mas nunca terminei~~
