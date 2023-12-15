@@ -2,7 +2,7 @@ report zprimeiro_prog_oo_relacoes .
 
 class lcl_selecao definition deferred .
 class lcl_chuteira definition deferred .
-class lcl_campo   definition deferred .
+class lcl_campo    definition deferred .
 
 class lcl_pessoa definition .
 
